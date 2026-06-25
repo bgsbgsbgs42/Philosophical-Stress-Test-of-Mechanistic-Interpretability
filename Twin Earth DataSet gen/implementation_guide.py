@@ -70,7 +70,7 @@ class TwinEarthExperiment:
     4. Philosophical analysis
     """
     
-    def __init__(self, base_model_name: str = "pythia-70m", device: str = "auto"):
+    def __init__(self, base_model_name: str = "pythia-70m", device: str = "cpu"):
         """
         Initialize experiment with base model.
         
@@ -208,7 +208,6 @@ class TwinEarthExperiment:
         # Training arguments
         training_args = TrainingArguments(
             output_dir="./twin_earth_models",
-            overwrite_output_dir=True,
             num_train_epochs=epochs,
             per_device_train_batch_size=batch_size,
             learning_rate=learning_rate,
@@ -315,6 +314,9 @@ class TwinEarthExperiment:
         
         # Extract concept vectors
         earth_vector, twin_vector = self.step4_extract_concept_vectors(concept)
+        
+        earth_vector = np.nan_to_num(earth_vector, nan=0.0)
+        twin_vector = np.nan_to_num(twin_vector, nan=0.0)
         
         # Compute similarity
         similarity = cosine_similarity(

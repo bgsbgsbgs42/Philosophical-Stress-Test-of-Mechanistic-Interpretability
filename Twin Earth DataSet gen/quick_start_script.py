@@ -179,7 +179,7 @@ def run_full_experiment(concepts=None, quick_mode=False):
         epochs = 1
         print("(Quick mode: reduced data and training time)")
     else:
-        model_name = "pythia-70m"  
+        model_name = "EleutherAI/pythia-70m"
         samples_per_concept = 500
         epochs = 2
         print("(Full mode: substantial training for reliable results)")
@@ -315,8 +315,8 @@ def main():
     elif args.quick:
         run_full_experiment(args.concepts, quick_mode=True)
         
-    else:  # Default to demo
-        run_quick_demo()
+    else:  # Default to full
+        run_full_experiment(args.concepts, quick_mode=False)
     
     print(f"\n✓ Experiment complete!")
     print(f"For detailed philosophical help: python quick_start.py --help-detailed")

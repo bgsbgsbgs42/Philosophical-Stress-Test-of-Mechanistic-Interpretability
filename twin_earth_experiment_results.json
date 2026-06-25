@@ -1,0 +1,33 @@
+{
+  "concept_analyses": {
+    "water": {
+      "concept": "water",
+      "earth_twin_similarity": 0.0,
+      "supports_externalism": true,
+      "interpretation": "Strong evidence for externalism",
+      "earth_vector_norm": 0.0,
+      "twin_vector_norm": 0.0
+    },
+    "gold": {
+      "concept": "gold",
+      "earth_twin_similarity": 0.0,
+      "supports_externalism": true,
+      "interpretation": "Strong evidence for externalism",
+      "earth_vector_norm": 0.0,
+      "twin_vector_norm": 0.0
+    }
+  },
+  "summary": {
+    "mean_similarity": 0.0,
+    "std_similarity": 0.0,
+    "concepts_supporting_externalism": 2,
+    "total_concepts": 2,
+    "externalism_support_ratio": 1.0
+  },
+  "philosophical_conclusion": {
+    "overall_assessment": "Strong evidence for externalism: AI concepts track external referents",
+    "safety_implication": "POSITIVE: Interpretability methods may reliably track world-directed mental content",
+    "mean_similarity": 0.0,
+    "support_ratio": 1.0
+  }
+}
