@@ -647,7 +647,7 @@ class CompositionalityAnalyzer:
             report += (
                 "\nIMPLICATIONS FOR AI SAFETY\n"
                 "---------------------------\n"
-                "✅ POSITIVE FINDING: Moderate-to-strong systematicity found.\n\n"
+                "POSITIVE FINDING: Moderate-to-strong systematicity found.\n\n"
                 "RECOMMENDATIONS:\n"
                 "- Expand testing to more complex conceptual relationships\n"
                 "- Develop systematic compositionality as a standard metric\n"
@@ -961,23 +961,23 @@ def generate_safety_recommendations(interpretation: Dict) -> List[str]:
     recommendations: List[str] = []
     if interpretation["classical_theory_support"]:
         recommendations.extend([
-            "✅ High confidence: Use interpretability for alignment verification",
-            "✅ Features likely track genuine conceptual content",
-            "✅ Systematic composition enables reliable belief editing",
-            "→ Expand interpretability to safety-critical reasoning patterns",
+            "High confidence: Use interpretability for alignment verification",
+            "Features likely track genuine conceptual content",
+            "Systematic composition enables reliable belief editing",
+            " Expand interpretability to safety-critical reasoning patterns",
         ])
     elif interpretation["safety_confidence_level"] == "medium":
         recommendations.extend([
-            "⚠️  Medium confidence: Verify interpretability for each critical application",
-            "⚠️  Test compositionality for domain-specific concepts before deployment",
-            "⚠️  Use multiple validation methods beyond feature inspection",
-            "→ Develop hybrid approaches combining interpretability with behavioural testing",
+            "  Medium confidence: Verify interpretability for each critical application",
+            "  Test compositionality for domain-specific concepts before deployment",
+            "  Use multiple validation methods beyond feature inspection",
+            " Develop hybrid approaches combining interpretability with behavioural testing",
         ])
     else:
         recommendations.extend([
             "Low confidence: Avoid relying solely on interpretability for safety",
-            "❌ Current methods may create illusion of understanding",
-            "❌ High risk of missing sophisticated misalignment",
+            " Current methods may create illusion of understanding",
+            " High risk of missing sophisticated misalignment",
             "→ Focus on behavioural alignment verification instead of representational",
         ])
     if interpretation["prototype_theory_support"]:

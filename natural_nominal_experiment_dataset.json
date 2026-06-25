@@ -1,0 +1,908 @@
+{
+  "natural_kinds": {
+    "water": {
+      "essential_contexts": [
+        "The invariant characteristic of water is forms hydrogen bonds between molecules.",
+        "Researchers have determined that water necessarily exhibits hydrogen-oxygen covalent bonds.",
+        "Deep investigation shows water is essentially two hydrogen atoms bonded to one oxygen atom.",
+        "What makes water what it is: chemical identity determined by atomic composition.",
+        "Deep investigation shows water is essentially chemical identity determined by atomic composition.",
+        "Scientific analysis reveals that water is fundamentally characterized by polar molecule with partial charges.",
+        "What makes water what it is: chemical identity determined by atomic composition.",
+        "The fundamental property underlying water is two hydrogen atoms bonded to one oxygen atom.",
+        "Without polar molecule with partial charges, something cannot be considered water.",
+        "The core property that defines water is molecular formula H2O.",
+        "The core property that defines water is polar molecule with partial charges.",
+        "Deep investigation shows water is essentially molecular formula H2O.",
+        "The fundamental property underlying water is forms hydrogen bonds between molecules.",
+        "The defining feature of water is molecular formula H2O.",
+        "Researchers have determined that water necessarily exhibits molecular formula H2O.",
+        "The essential nature of water involves forms hydrogen bonds between molecules.",
+        "The defining feature of water is two hydrogen atoms bonded to one oxygen atom.",
+        "Researchers have determined that water necessarily exhibits forms hydrogen bonds between molecules.",
+        "The invariant characteristic of water is chemical identity determined by atomic composition.",
+        "The essential nature of water involves molecular formula H2O."
+      ],
+      "superficial_contexts": [
+        "This particular water happens to be commonly found in bottles.",
+        "The water looks makes splashing sounds from this angle.",
+        "The apparent quality of this water is clear and colorless liquid.",
+        "The water looks flows and takes container shape from this angle.",
+        "One notices the water has the accidental property of being clear and colorless liquid.",
+        "The water appears makes splashing sounds in this instance.",
+        "The surface characteristics include water being clear and colorless liquid.",
+        "This particular water happens to be reflects light when still.",
+        "The water looks flows and takes container shape from this angle.",
+        "The surface characteristics include water being tasteless and odorless.",
+        "The surface characteristics include water being feels wet to touch.",
+        "Visually, the water presents as feels wet to touch.",
+        "Visually, the water presents as tasteless and odorless.",
+        "The apparent quality of this water is clear and colorless liquid.",
+        "This water exhibits the superficial trait of being clear and colorless liquid.",
+        "This particular water happens to be flows and takes container shape.",
+        "This particular water happens to be flows and takes container shape.",
+        "The water appears tasteless and odorless in this instance.",
+        "The apparent quality of this water is tasteless and odorless.",
+        "The water looks reflects light when still from this angle."
+      ],
+      "edge_cases": [
+        "Philosophers debate whether ice crystals counts as water.",
+        "Philosophers debate whether ice crystals counts as water.",
+        "The boundary case of ice crystals illuminates the nature of water.",
+        "Is heavy water (D2O) really a type of water? This tests the boundaries.",
+        "Philosophers debate whether ice crystals counts as water.",
+        "The edge case of water vapor challenges our understanding of water.",
+        "Philosophers debate whether heavy water (D2O) counts as water.",
+        "The edge case of ice crystals challenges our understanding of water.",
+        "The edge case of water at extreme temperatures challenges our understanding of water.",
+        "The marginal instance water vapor raises questions about water membership."
+      ],
+      "typicality_gradient": {
+        "typical": [
+          "The best example of water is rainwater.",
+          "A clear case of water is ocean water.",
+          "A perfect example of water is bottled water.",
+          "When people think of water, they usually imagine tap water.",
+          "A central instance of water is bottled water.",
+          "The prototypical water would be bottled water.",
+          "A perfect example of water is ocean water.",
+          "The prototypical water would be tap water.",
+          "When people think of water, they usually imagine bottled water.",
+          "A central instance of water is rainwater."
+        ],
+        "atypical": [
+          "An unusual example of water is mineral water.",
+          "A peripheral case of water is distilled water.",
+          "An unusual example of water is mineral water.",
+          "A marginal example of water is ice.",
+          "An unusual example of water is mineral water.",
+          "An uncommon type of water is steam.",
+          "A marginal example of water is steam.",
+          "An atypical instance of water is distilled water.",
+          "An unusual example of water is distilled water.",
+          "An uncommon type of water is steam."
+        ]
+      },
+      "cross_domain_stability": {
+        "scientific": [
+          "In the laboratory, researchers study water which has bent molecular geometry due to lone pairs.",
+          "Academic research on water focuses on forms hydrogen bonds between molecules.",
+          "In the laboratory, researchers study water which has forms hydrogen bonds between molecules.",
+          "In the laboratory, researchers study water which has forms hydrogen bonds between molecules.",
+          "Academic research on water focuses on molecular formula H2O."
+        ],
+        "everyday": [
+          "In daily life, people encounter water which is two hydrogen atoms bonded to one oxygen atom.",
+          "At home, you might find water that is dielectric constant of 81.",
+          "At home, you might find water that is density 1.0 g/cm\u00b3 at standard conditions.",
+          "In daily life, people encounter water which is bent molecular geometry due to lone pairs.",
+          "At home, you might find water that is freezing point 0\u00b0C at standard pressure."
+        ],
+        "technical": [
+          "Industrial applications of water involve specific heat capacity 4.18 J/g\u00b0C.",
+          "Engineers working with water must consider density 1.0 g/cm\u00b3 at standard conditions.",
+          "Engineers working with water must consider dielectric constant of 81.",
+          "Technical specifications for water include freezing point 0\u00b0C at standard pressure.",
+          "Professional use of water requires understanding boiling point 100\u00b0C at standard pressure."
+        ],
+        "cultural": [
+          "Socially, water is recognised by polar molecule with partial charges.",
+          "Socially, water is recognised by freezing point 0\u00b0C at standard pressure.",
+          "Social contexts present water as polar molecule with partial charges.",
+          "Socially, water is recognised by freezing point 0\u00b0C at standard pressure.",
+          "Social contexts present water as chemical identity determined by atomic composition."
+        ]
+      },
+      "kind_type": "natural",
+      "scientific_contexts": [
+        "Laboratory analysis reveals water exhibits self-ionizes to form H+ and OH- ions.",
+        "Empirical studies demonstrate that water involves dielectric constant of 81.",
+        "Scientific research shows that water is characterized by specific heat capacity 4.18 J/g\u00b0C.",
+        "The scientific understanding of water includes boiling point 100\u00b0C at standard pressure.",
+        "Empirical studies demonstrate that water involves density 1.0 g/cm\u00b3 at standard conditions.",
+        "Advanced measurement techniques show water has dielectric constant of 81.",
+        "Scientific research shows that water is characterized by density 1.0 g/cm\u00b3 at standard conditions.",
+        "Rigorous investigation confirms water displays boiling point 100\u00b0C at standard pressure.",
+        "Advanced measurement techniques show water has self-ionizes to form H+ and OH- ions.",
+        "The scientific understanding of water includes dielectric constant of 81."
+      ],
+      "folk_contexts": [
+        "The everyday understanding of water includes being essential for life.",
+        "The everyday understanding of water includes being extinguishes fires.",
+        "The everyday understanding of water includes being extinguishes fires.",
+        "Everyone understands water as extinguishes fires.",
+        "Everyone understands water as extinguishes fires.",
+        "The everyday understanding of water includes being essential for life.",
+        "Folk wisdom tells us water is essential for life.",
+        "The everyday understanding of water includes being used for drinking and cooking.",
+        "Folk wisdom tells us water is essential for life.",
+        "The everyday understanding of water includes being falls as rain from clouds."
+      ]
+    },
+    "gold": {
+      "essential_contexts": [
+        "The invariant characteristic of gold is atomic number 79.",
+        "Deep investigation shows gold is essentially chemical symbol Au.",
+        "The core property that defines gold is atomic number 79.",
+        "What makes gold what it is: face-centered cubic crystal lattice.",
+        "Researchers have determined that gold necessarily exhibits atomic number 79.",
+        "The invariant characteristic of gold is metallic bonding structure.",
+        "The defining feature of gold is electron configuration [Xe] 4f\u00b9\u2074 5d\u00b9\u2070 6s\u00b9.",
+        "The essential nature of gold involves chemical symbol Au.",
+        "Deep investigation shows gold is essentially atomic number 79.",
+        "Deep investigation shows gold is essentially nuclear charge determines all other properties.",
+        "The fundamental property underlying gold is nuclear charge determines all other properties.",
+        "Scientific analysis reveals that gold is fundamentally characterized by nuclear charge determines all other properties.",
+        "The invariant characteristic of gold is chemical symbol Au.",
+        "Researchers have determined that gold necessarily exhibits metallic bonding structure.",
+        "Scientific analysis reveals that gold is fundamentally characterized by atomic number 79.",
+        "Scientific analysis reveals that gold is fundamentally characterized by face-centered cubic crystal lattice.",
+        "Without metallic bonding structure, something cannot be considered gold.",
+        "The fundamental property underlying gold is electron configuration [Xe] 4f\u00b9\u2074 5d\u00b9\u2070 6s\u00b9.",
+        "Deep investigation shows gold is essentially nuclear charge determines all other properties.",
+        "The fundamental property underlying gold is chemical symbol Au."
+      ],
+      "superficial_contexts": [
+        "One notices the gold has the accidental property of being soft enough to scratch with fingernail.",
+        "This example of gold shows yellow metallic color.",
+        "This example of gold shows soft enough to scratch with fingernail.",
+        "The surface characteristics include gold being valuable and expensive.",
+        "This gold exhibits the superficial trait of being soft enough to scratch with fingernail.",
+        "The gold looks yellow metallic color from this angle.",
+        "This gold exhibits the superficial trait of being valuable and expensive.",
+        "The apparent quality of this gold is valuable and expensive.",
+        "This gold exhibits the superficial trait of being shiny and lustrous appearance.",
+        "This gold exhibits the superficial trait of being valuable and expensive.",
+        "The surface characteristics include gold being feels heavy and dense.",
+        "One can observe that this gold is feels heavy and dense.",
+        "This particular gold happens to be associated with wealth and status.",
+        "The apparent quality of this gold is soft enough to scratch with fingernail.",
+        "This particular gold happens to be associated with wealth and status.",
+        "Visually, the gold presents as feels heavy and dense.",
+        "The apparent quality of this gold is yellow metallic color.",
+        "This particular gold happens to be used in jewelry and decoration.",
+        "Visually, the gold presents as valuable and expensive.",
+        "This particular gold happens to be valuable and expensive."
+      ],
+      "edge_cases": [
+        "Consider the atypical example: ionic gold compounds classified as gold.",
+        "The marginal instance white gold raises questions about gold membership.",
+        "The edge case of white gold challenges our understanding of gold.",
+        "The boundary case of white gold illuminates the nature of gold.",
+        "The problematic case of gold nanoparticles tests our concept of gold.",
+        "The edge case of gold nanoparticles challenges our understanding of gold.",
+        "The edge case of gold alloys challenges our understanding of gold.",
+        "The marginal instance gold nanoparticles raises questions about gold membership.",
+        "The problematic case of white gold tests our concept of gold.",
+        "Is rose gold really a type of gold? This tests the boundaries."
+      ],
+      "typicality_gradient": {
+        "typical": [
+          "The best example of gold is gold coins.",
+          "The prototypical gold would be gold bars.",
+          "When people think of gold, they usually imagine gold nuggets.",
+          "A perfect example of gold is gold jewelry.",
+          "The prototypical gold would be gold bars.",
+          "The best example of gold is gold nuggets.",
+          "A clear case of gold is gold bars.",
+          "A clear case of gold is gold bars.",
+          "When people think of gold, they usually imagine gold bars.",
+          "When people think of gold, they usually imagine gold coins."
+        ],
+        "atypical": [
+          "A marginal example of gold is gold dental fillings.",
+          "An atypical instance of gold is gold paint.",
+          "An atypical instance of gold is gold paint.",
+          "An unusual example of gold is gold paint.",
+          "A marginal example of gold is gold thread.",
+          "An uncommon type of gold is gold paint.",
+          "An unusual example of gold is gold thread.",
+          "A peripheral case of gold is gold paint.",
+          "A less typical gold would be gold dental fillings.",
+          "A less typical gold would be gold dental fillings."
+        ]
+      },
+      "cross_domain_stability": {
+        "scientific": [
+          "In the laboratory, researchers study gold which has density 19.3 g/cm\u00b3.",
+          "Academic research on gold focuses on chemically inert and non-reactive.",
+          "Laboratory conditions reveal gold exhibits electron configuration [Xe] 4f\u00b9\u2074 5d\u00b9\u2070 6s\u00b9.",
+          "Scientific papers describe gold as having metallic bonding structure.",
+          "Scientific papers describe gold as having chemically inert and non-reactive."
+        ],
+        "everyday": [
+          "In daily life, people encounter gold which is malleable and ductile.",
+          "At home, you might find gold that is chemical symbol Au.",
+          "Regular experience with gold includes atomic number 79.",
+          "In ordinary situations, gold shows electron configuration [Xe] 4f\u00b9\u2074 5d\u00b9\u2070 6s\u00b9.",
+          "In daily life, people encounter gold which is malleable and ductile."
+        ],
+        "technical": [
+          "Engineers working with gold must consider 79 protons in atomic nucleus.",
+          "Engineers working with gold must consider electron configuration [Xe] 4f\u00b9\u2074 5d\u00b9\u2070 6s\u00b9.",
+          "Engineers working with gold must consider metallic bonding structure.",
+          "Industrial applications of gold involve 79 protons in atomic nucleus.",
+          "Professional use of gold requires understanding 79 protons in atomic nucleus."
+        ],
+        "cultural": [
+          "In our culture, gold is understood as chemically inert and non-reactive.",
+          "In our culture, gold is understood as malleable and ductile.",
+          "Socially, gold is recognised by chemical symbol Au.",
+          "Cultural traditions associate gold with malleable and ductile.",
+          "In our culture, gold is understood as face-centered cubic crystal lattice."
+        ]
+      },
+      "kind_type": "natural",
+      "scientific_contexts": [
+        "Rigorous investigation confirms gold displays atomic mass 196.97 amu.",
+        "Scientific research shows that gold is characterized by melting point 1064\u00b0C.",
+        "Empirical studies demonstrate that gold involves excellent electrical conductor.",
+        "Empirical studies demonstrate that gold involves excellent electrical conductor.",
+        "Laboratory analysis reveals gold exhibits chemically inert and non-reactive.",
+        "Rigorous investigation confirms gold displays malleable and ductile.",
+        "Rigorous investigation confirms gold displays density 19.3 g/cm\u00b3.",
+        "Scientific research shows that gold is characterized by melting point 1064\u00b0C.",
+        "Laboratory analysis reveals gold exhibits excellent electrical conductor.",
+        "The scientific understanding of gold includes malleable and ductile."
+      ],
+      "folk_contexts": [
+        "Folk wisdom tells us gold is doesn't rust or tarnish.",
+        "Everyone understands gold as doesn't rust or tarnish.",
+        "People generally know that gold is found by mining.",
+        "People generally know that gold is found by mining.",
+        "Regular people recognise gold as symbol of value.",
+        "People generally know that gold is symbol of value.",
+        "Common knowledge suggests gold is precious metal.",
+        "Everyone understands gold as precious metal.",
+        "The everyday understanding of gold includes being doesn't rust or tarnish.",
+        "Common knowledge suggests gold is doesn't rust or tarnish."
+      ]
+    }
+  },
+  "nominal_kinds": {
+    "chair": {
+      "essential_contexts": [
+        "The essential nature of chair involves provides back support.",
+        "Deep investigation shows chair is essentially stable base structure.",
+        "The defining feature of chair is functional purpose of seating.",
+        "The invariant characteristic of chair is elevated seating surface.",
+        "The essential nature of chair involves intended for single person use.",
+        "Scientific analysis reveals that chair is fundamentally characterized by intended for single person use.",
+        "Without provides back support, something cannot be considered chair.",
+        "The defining feature of chair is stable base structure.",
+        "The fundamental property underlying chair is functional purpose of seating.",
+        "Researchers have determined that chair necessarily exhibits provides back support.",
+        "The core property that defines chair is functional purpose of seating.",
+        "The essential nature of chair involves designed for sitting.",
+        "Without stable base structure, something cannot be considered chair.",
+        "The core property that defines chair is functional purpose of seating.",
+        "Deep investigation shows chair is essentially stable base structure.",
+        "The defining feature of chair is intended for single person use.",
+        "Researchers have determined that chair necessarily exhibits functional purpose of seating.",
+        "Scientific analysis reveals that chair is fundamentally characterized by designed for sitting.",
+        "Deep investigation shows chair is essentially functional purpose of seating.",
+        "The essential nature of chair involves stable base structure."
+      ],
+      "superficial_contexts": [
+        "This example of chair shows matches other furniture.",
+        "One can observe that this chair is specific style or design.",
+        "The chair appears made of wood or metal in this instance.",
+        "The chair appears matches other furniture in this instance.",
+        "Visually, the chair presents as specific style or design.",
+        "This particular chair happens to be made of wood or metal.",
+        "The chair looks specific style or design from this angle.",
+        "The surface characteristics include chair being has four legs.",
+        "The chair appears made of wood or metal in this instance.",
+        "This example of chair shows brown or black color.",
+        "This particular chair happens to be made of wood or metal.",
+        "This chair exhibits the superficial trait of being has four legs.",
+        "Visually, the chair presents as found in dining rooms.",
+        "One can observe that this chair is matches other furniture.",
+        "One can observe that this chair is made of wood or metal.",
+        "This particular chair happens to be made of wood or metal.",
+        "The apparent quality of this chair is particular size or height.",
+        "Visually, the chair presents as particular size or height.",
+        "The surface characteristics include chair being made of wood or metal.",
+        "This particular chair happens to be made of wood or metal."
+      ],
+      "edge_cases": [
+        "Philosophers debate whether rocking chairs counts as chair.",
+        "Consider the atypical example: folding chairs classified as chair.",
+        "Is folding chairs really a type of chair? This tests the boundaries.",
+        "Consider the atypical example: high chairs classified as chair.",
+        "Consider the atypical example: electric chairs classified as chair.",
+        "Is electric chairs really a type of chair? This tests the boundaries.",
+        "Consider this borderline case: electric chairs as an example of chair.",
+        "Consider the atypical example: rocking chairs classified as chair.",
+        "Consider this borderline case: high chairs as an example of chair.",
+        "The boundary case of rocking chairs illuminates the nature of chair."
+      ],
+      "typicality_gradient": {
+        "typical": [
+          "A central instance of chair is wooden chair.",
+          "A perfect example of chair is dining chair.",
+          "A clear case of chair is dining chair.",
+          "A clear case of chair is kitchen chair.",
+          "The best example of chair is dining chair.",
+          "The best example of chair is kitchen chair.",
+          "A perfect example of chair is wooden chair.",
+          "The best example of chair is dining chair.",
+          "A central instance of chair is kitchen chair.",
+          "A perfect example of chair is kitchen chair."
+        ],
+        "atypical": [
+          "An unusual example of chair is beanbag.",
+          "An atypical instance of chair is stool.",
+          "A marginal example of chair is bench.",
+          "An atypical instance of chair is beanbag.",
+          "A less typical chair would be throne.",
+          "An atypical instance of chair is bench.",
+          "An uncommon type of chair is bench.",
+          "A peripheral case of chair is bench.",
+          "A less typical chair would be throne.",
+          "A less typical chair would be beanbag."
+        ]
+      },
+      "cross_domain_stability": {
+        "scientific": [
+          "Academic research on chair focuses on comes in many styles.",
+          "In the laboratory, researchers study chair which has comes in many styles.",
+          "Academic research on chair focuses on found in homes and offices.",
+          "Scientific papers describe chair as having provides back support.",
+          "Academic research on chair focuses on designed for sitting."
+        ],
+        "everyday": [
+          "At home, you might find chair that is stable base structure.",
+          "In daily life, people encounter chair which is part of table and chair sets.",
+          "At home, you might find chair that is supports human body weight.",
+          "In ordinary situations, chair shows functional purpose of seating.",
+          "In daily life, people encounter chair which is elevated seating surface."
+        ],
+        "technical": [
+          "Industrial applications of chair involve requires assembly or is pre-made.",
+          "Industrial applications of chair involve supports human body weight.",
+          "Professional use of chair requires understanding provides back support.",
+          "Technical specifications for chair include elevated seating surface.",
+          "Industrial applications of chair involve supports human body weight."
+        ],
+        "cultural": [
+          "In our culture, chair is understood as can be moved around.",
+          "Cultural traditions associate chair with requires assembly or is pre-made.",
+          "In our culture, chair is understood as requires assembly or is pre-made.",
+          "Social contexts present chair as furniture for sitting.",
+          "Social contexts present chair as supports human body weight."
+        ]
+      },
+      "kind_type": "nominal",
+      "scientific_contexts": [
+        "Laboratory analysis reveals chair exhibits material fatigue characteristics.",
+        "Empirical studies demonstrate that chair involves ergonomic design principles.",
+        "Advanced measurement techniques show chair has stress distribution patterns.",
+        "Empirical studies demonstrate that chair involves material fatigue characteristics.",
+        "Laboratory analysis reveals chair exhibits material strength and durability.",
+        "Advanced measurement techniques show chair has center of gravity calculations.",
+        "Scientific research shows that chair is characterized by material strength and durability.",
+        "The scientific understanding of chair includes material fatigue characteristics.",
+        "Empirical studies demonstrate that chair involves material fatigue characteristics.",
+        "Advanced measurement techniques show chair has load-bearing capacity."
+      ],
+      "folk_contexts": [
+        "Common knowledge suggests chair is requires assembly or is pre-made.",
+        "Common knowledge suggests chair is furniture for sitting.",
+        "Folk wisdom tells us chair is can be moved around.",
+        "People generally know that chair is can be moved around.",
+        "People generally know that chair is can be moved around.",
+        "Folk wisdom tells us chair is requires assembly or is pre-made.",
+        "People generally know that chair is part of table and chair sets.",
+        "Common knowledge suggests chair is found in homes and offices.",
+        "Common knowledge suggests chair is comes in many styles.",
+        "Regular people recognise chair as comes in many styles."
+      ]
+    },
+    "game": {
+      "essential_contexts": [
+        "The defining feature of game is competitive or skill-based elements.",
+        "Scientific analysis reveals that game is fundamentally characterized by artificial rather than natural activity.",
+        "The defining feature of game is competitive or skill-based elements.",
+        "Researchers have determined that game necessarily exhibits artificial rather than natural activity.",
+        "The essential nature of game involves defined winning conditions or objectives.",
+        "The fundamental property underlying game is distinct beginning and end.",
+        "The invariant characteristic of game is artificial rather than natural activity.",
+        "The invariant characteristic of game is structured activity with constraints.",
+        "The fundamental property underlying game is defined winning conditions or objectives.",
+        "What makes game what it is: competitive or skill-based elements.",
+        "The core property that defines game is set of rules governing play.",
+        "Deep investigation shows game is essentially structured activity with constraints.",
+        "The defining feature of game is structured activity with constraints.",
+        "The fundamental property underlying game is artificial rather than natural activity.",
+        "Scientific analysis reveals that game is fundamentally characterized by competitive or skill-based elements.",
+        "The core property that defines game is structured activity with constraints.",
+        "The core property that defines game is set of rules governing play.",
+        "Scientific analysis reveals that game is fundamentally characterized by artificial rather than natural activity.",
+        "Researchers have determined that game necessarily exhibits voluntary participation.",
+        "The essential nature of game involves artificial rather than natural activity."
+      ],
+      "superficial_contexts": [
+        "This example of game shows played in particular locations.",
+        "One can observe that this game is takes certain amount of time.",
+        "The surface characteristics include game being takes certain amount of time.",
+        "This example of game shows has particular cultural associations.",
+        "The game appears played with specific equipment in this instance.",
+        "This game exhibits the superficial trait of being played with specific equipment.",
+        "One can observe that this game is involves multiple players.",
+        "This particular game happens to be involves multiple players.",
+        "The game looks involves physical or mental activity from this angle.",
+        "The game appears involves multiple players in this instance.",
+        "The game appears played in particular locations in this instance.",
+        "One notices the game has the accidental property of being associated with fun and entertainment.",
+        "This example of game shows played with specific equipment.",
+        "Visually, the game presents as associated with fun and entertainment.",
+        "One notices the game has the accidental property of being has particular cultural associations.",
+        "This game exhibits the superficial trait of being takes certain amount of time.",
+        "One can observe that this game is played in particular locations.",
+        "The surface characteristics include game being takes certain amount of time.",
+        "The apparent quality of this game is has particular cultural associations.",
+        "The game looks has particular cultural associations from this angle."
+      ],
+      "edge_cases": [
+        "The marginal instance children's games raises questions about game membership.",
+        "The boundary case of party games illuminates the nature of game.",
+        "Philosophers debate whether mind games counts as game.",
+        "Consider this borderline case: video games as an example of game.",
+        "Is party games really a type of game? This tests the boundaries.",
+        "The boundary case of gambling games illuminates the nature of game.",
+        "The marginal instance video games raises questions about game membership.",
+        "Is mind games really a type of game? This tests the boundaries.",
+        "Philosophers debate whether children's games counts as game.",
+        "Is children's games really a type of game? This tests the boundaries."
+      ],
+      "typicality_gradient": {
+        "typical": [
+          "A clear case of game is Monopoly.",
+          "The best example of game is Monopoly.",
+          "When people think of game, they usually imagine chess.",
+          "A central instance of game is chess.",
+          "The prototypical game would be poker.",
+          "When people think of game, they usually imagine soccer.",
+          "The prototypical game would be soccer.",
+          "The prototypical game would be soccer.",
+          "A clear case of game is Monopoly.",
+          "A perfect example of game is soccer."
+        ],
+        "atypical": [
+          "An atypical instance of game is solitaire.",
+          "An unusual example of game is solitaire.",
+          "An uncommon type of game is word game.",
+          "An atypical instance of game is video game.",
+          "An unusual example of game is video game.",
+          "A less typical game would be solitaire.",
+          "A marginal example of game is word game.",
+          "An atypical instance of game is word game.",
+          "A less typical game would be word game.",
+          "An unusual example of game is drinking game."
+        ]
+      },
+      "cross_domain_stability": {
+        "scientific": [
+          "In the laboratory, researchers study game which has set of rules governing play.",
+          "In the laboratory, researchers study game which has set of rules governing play.",
+          "In the laboratory, researchers study game which has learned through practice.",
+          "In the laboratory, researchers study game which has played for fun and entertainment.",
+          "Laboratory conditions reveal game exhibits played for fun and entertainment."
+        ],
+        "everyday": [
+          "Regular experience with game includes distinct beginning and end.",
+          "In ordinary situations, game shows can be won or lost.",
+          "In ordinary situations, game shows can be won or lost.",
+          "At home, you might find game that is structured activity with constraints.",
+          "In daily life, people encounter game which is set of rules governing play."
+        ],
+        "technical": [
+          "Industrial applications of game involve learned through practice.",
+          "Industrial applications of game involve can be competitive or cooperative.",
+          "Industrial applications of game involve helps pass time.",
+          "Engineers working with game must consider played for fun and entertainment.",
+          "Technical specifications for game include competitive or skill-based elements."
+        ],
+        "cultural": [
+          "Cultural traditions associate game with set of rules governing play.",
+          "Social contexts present game as brings people together.",
+          "Cultural traditions associate game with structured activity with constraints.",
+          "Cultural traditions associate game with voluntary participation.",
+          "In our culture, game is understood as learned through practice."
+        ]
+      },
+      "kind_type": "nominal",
+      "scientific_contexts": [
+        "Empirical studies demonstrate that game involves probability and chance mechanisms.",
+        "Empirical studies demonstrate that game involves probability and chance mechanisms.",
+        "The scientific understanding of game includes social interaction dynamics.",
+        "The scientific understanding of game includes probability and chance mechanisms.",
+        "Empirical studies demonstrate that game involves learning and skill development.",
+        "Empirical studies demonstrate that game involves probability and chance mechanisms.",
+        "Advanced measurement techniques show game has social interaction dynamics.",
+        "The scientific understanding of game includes social interaction dynamics.",
+        "Scientific research shows that game is characterized by strategic decision-making patterns.",
+        "Empirical studies demonstrate that game involves strategic decision-making patterns."
+      ],
+      "folk_contexts": [
+        "Everyone understands game as helps pass time.",
+        "People generally know that game is can be won or lost.",
+        "Common knowledge suggests game is can be competitive or cooperative.",
+        "Folk wisdom tells us game is can be competitive or cooperative.",
+        "People generally know that game is can be competitive or cooperative.",
+        "Folk wisdom tells us game is brings people together.",
+        "Regular people recognise game as can be competitive or cooperative.",
+        "Folk wisdom tells us game is can be competitive or cooperative.",
+        "People generally know that game is played for fun and entertainment.",
+        "Common knowledge suggests game is can be competitive or cooperative."
+      ]
+    }
+  },
+  "artifact_kinds": {
+    "clock": {
+      "essential_contexts": [
+        "The defining feature of clock is calibrated to standard time units.",
+        "Researchers have determined that clock necessarily exhibits functional rather than natural kind.",
+        "Scientific analysis reveals that clock is fundamentally characterized by functional rather than natural kind.",
+        "Without intended function of temporal measurement, something cannot be considered clock.",
+        "The core property that defines clock is functional rather than natural kind.",
+        "The essential nature of clock involves designed to measure and display time.",
+        "The fundamental property underlying clock is intended function of temporal measurement.",
+        "What makes clock what it is: purposeful design for time indication.",
+        "Without human-created artifact, something cannot be considered clock.",
+        "The invariant characteristic of clock is human-created artifact.",
+        "The fundamental property underlying clock is purposeful design for time indication.",
+        "Without functional rather than natural kind, something cannot be considered clock.",
+        "The essential nature of clock involves systematic time-keeping mechanism.",
+        "The core property that defines clock is designed to measure and display time.",
+        "The invariant characteristic of clock is designed to measure and display time.",
+        "The defining feature of clock is intended function of temporal measurement.",
+        "What makes clock what it is: intended function of temporal measurement.",
+        "What makes clock what it is: functional rather than natural kind.",
+        "Deep investigation shows clock is essentially purposeful design for time indication.",
+        "What makes clock what it is: human-created artifact."
+      ],
+      "superficial_contexts": [
+        "This clock exhibits the superficial trait of being made of certain materials.",
+        "This particular clock happens to be makes ticking sounds.",
+        "Visually, the clock presents as has hour and minute hands.",
+        "This example of clock shows particular size or colour.",
+        "The clock appears has hour and minute hands in this instance.",
+        "One can observe that this clock is makes ticking sounds.",
+        "Visually, the clock presents as hangs on wall or sits on surface.",
+        "The clock appears hangs on wall or sits on surface in this instance.",
+        "This example of clock shows specific style or appearance.",
+        "This clock exhibits the superficial trait of being hangs on wall or sits on surface.",
+        "The clock looks particular size or colour from this angle.",
+        "This example of clock shows hangs on wall or sits on surface.",
+        "Visually, the clock presents as makes ticking sounds.",
+        "This example of clock shows has hour and minute hands.",
+        "This example of clock shows has hour and minute hands.",
+        "Visually, the clock presents as particular size or colour.",
+        "This particular clock happens to be specific style or appearance.",
+        "The surface characteristics include clock being particular size or colour.",
+        "One can observe that this clock is round face with numbers.",
+        "The surface characteristics include clock being has hour and minute hands."
+      ],
+      "edge_cases": [
+        "The edge case of decorative clocks challenges our understanding of clock.",
+        "Consider this borderline case: atomic clocks as an example of clock.",
+        "The edge case of digital clocks challenges our understanding of clock.",
+        "The marginal instance digital clocks raises questions about clock membership.",
+        "The edge case of decorative clocks challenges our understanding of clock.",
+        "Consider the atypical example: decorative clocks classified as clock.",
+        "The edge case of clock towers challenges our understanding of clock.",
+        "The marginal instance decorative clocks raises questions about clock membership.",
+        "The boundary case of atomic clocks illuminates the nature of clock.",
+        "Philosophers debate whether atomic clocks counts as clock."
+      ],
+      "typicality_gradient": {
+        "typical": [
+          "A clear case of clock is wristwatch.",
+          "A central instance of clock is alarm clock.",
+          "A clear case of clock is alarm clock.",
+          "When people think of clock, they usually imagine alarm clock.",
+          "The prototypical clock would be alarm clock.",
+          "When people think of clock, they usually imagine alarm clock.",
+          "The prototypical clock would be grandfather clock.",
+          "A clear case of clock is wristwatch.",
+          "The best example of clock is wristwatch.",
+          "A perfect example of clock is grandfather clock."
+        ],
+        "atypical": [
+          "A marginal example of clock is sundial.",
+          "An atypical instance of clock is cuckoo clock.",
+          "An unusual example of clock is digital display.",
+          "An unusual example of clock is cuckoo clock.",
+          "A marginal example of clock is atomic clock.",
+          "A marginal example of clock is digital display.",
+          "An uncommon type of clock is atomic clock.",
+          "A less typical clock would be sundial.",
+          "An unusual example of clock is atomic clock.",
+          "A marginal example of clock is cuckoo clock."
+        ]
+      },
+      "cross_domain_stability": {
+        "scientific": [
+          "Scientific papers describe clock as having calibrated to standard time units.",
+          "Laboratory conditions reveal clock exhibits human-created artifact.",
+          "In the laboratory, researchers study clock which has tells time.",
+          "Academic research on clock focuses on systematic time-keeping mechanism.",
+          "Laboratory conditions reveal clock exhibits intended function of temporal measurement."
+        ],
+        "everyday": [
+          "At home, you might find clock that is found in homes and public places.",
+          "Regular experience with clock includes intended function of temporal measurement.",
+          "In ordinary situations, clock shows calibrated to standard time units.",
+          "Regular experience with clock includes purposeful design for time indication.",
+          "In daily life, people encounter clock which is tells time."
+        ],
+        "technical": [
+          "Engineers working with clock must consider requires winding or batteries.",
+          "Professional use of clock requires understanding functional rather than natural kind.",
+          "Industrial applications of clock involve systematic time-keeping mechanism.",
+          "Engineers working with clock must consider human-created artifact.",
+          "Technical specifications for clock include systematic time-keeping mechanism."
+        ],
+        "cultural": [
+          "Socially, clock is recognised by human-created artifact.",
+          "Cultural traditions associate clock with systematic time-keeping mechanism.",
+          "Socially, clock is recognised by purposeful design for time indication.",
+          "Socially, clock is recognised by purposeful design for time indication.",
+          "Social contexts present clock as important for daily life."
+        ]
+      },
+      "kind_type": "artifact",
+      "scientific_contexts": [
+        "The scientific understanding of clock includes temperature and environmental stability.",
+        "Laboratory analysis reveals clock exhibits power source requirements.",
+        "Rigorous investigation confirms clock displays oscillation frequency for time keeping.",
+        "Advanced measurement techniques show clock has temperature and environmental stability.",
+        "Advanced measurement techniques show clock has gear ratios for hand movement.",
+        "Advanced measurement techniques show clock has oscillation frequency for time keeping.",
+        "Laboratory analysis reveals clock exhibits power source requirements.",
+        "Laboratory analysis reveals clock exhibits power source requirements.",
+        "Empirical studies demonstrate that clock involves accuracy and precision specifications.",
+        "Advanced measurement techniques show clock has gear ratios for hand movement."
+      ],
+      "folk_contexts": [
+        "Everyone understands clock as requires winding or batteries.",
+        "Regular people recognise clock as tells time.",
+        "Regular people recognise clock as can be analog or digital.",
+        "People generally know that clock is found in homes and public places.",
+        "Folk wisdom tells us clock is tells time.",
+        "People generally know that clock is can be analog or digital.",
+        "Regular people recognise clock as found in homes and public places.",
+        "Regular people recognise clock as helps people be on schedule.",
+        "The everyday understanding of clock includes being helps people be on schedule.",
+        "Regular people recognise clock as tells time."
+      ]
+    },
+    "hammer": {
+      "essential_contexts": [
+        "Without force multiplication device, something cannot be considered hammer.",
+        "Scientific analysis reveals that hammer is fundamentally characterized by weighted head for impact force.",
+        "The defining feature of hammer is designed for striking and driving.",
+        "What makes hammer what it is: designed for striking and driving.",
+        "Scientific analysis reveals that hammer is fundamentally characterized by tool designed by humans.",
+        "The essential nature of hammer involves weighted head for impact force.",
+        "The fundamental property underlying hammer is designed for striking and driving.",
+        "The invariant characteristic of hammer is intended function of pounding.",
+        "What makes hammer what it is: tool designed by humans.",
+        "What makes hammer what it is: intended function of pounding.",
+        "The fundamental property underlying hammer is force multiplication device.",
+        "What makes hammer what it is: intended function of pounding.",
+        "The defining feature of hammer is intended function of pounding.",
+        "Deep investigation shows hammer is essentially handle for leverage and control.",
+        "What makes hammer what it is: weighted head for impact force.",
+        "The essential nature of hammer involves designed for striking and driving.",
+        "Without weighted head for impact force, something cannot be considered hammer.",
+        "Deep investigation shows hammer is essentially intended function of pounding.",
+        "The fundamental property underlying hammer is force multiplication device.",
+        "Researchers have determined that hammer necessarily exhibits tool designed by humans."
+      ],
+      "superficial_contexts": [
+        "This hammer exhibits the superficial trait of being made of metal and wood.",
+        "One notices the hammer has the accidental property of being certain colour or finish.",
+        "The hammer looks particular size and weight from this angle.",
+        "The apparent quality of this hammer is specific handle length.",
+        "This particular hammer happens to be specific handle length.",
+        "This particular hammer happens to be certain colour or finish.",
+        "The apparent quality of this hammer is particular size and weight.",
+        "One can observe that this hammer is particular size and weight.",
+        "The hammer appears has brand markings in this instance.",
+        "One notices the hammer has the accidental property of being found in toolboxes.",
+        "This hammer exhibits the superficial trait of being has brand markings.",
+        "This example of hammer shows associated with construction.",
+        "This particular hammer happens to be specific handle length.",
+        "The surface characteristics include hammer being associated with construction.",
+        "This example of hammer shows has brand markings.",
+        "This hammer exhibits the superficial trait of being made of metal and wood.",
+        "The hammer looks has brand markings from this angle.",
+        "The hammer looks specific handle length from this angle.",
+        "This hammer exhibits the superficial trait of being particular size and weight.",
+        "One can observe that this hammer is made of metal and wood."
+      ],
+      "edge_cases": [
+        "The problematic case of ball-peen hammer tests our concept of hammer.",
+        "The marginal instance sledgehammer raises questions about hammer membership.",
+        "The marginal instance sledgehammer raises questions about hammer membership.",
+        "Consider this borderline case: sledgehammer as an example of hammer.",
+        "Consider this borderline case: sledgehammer as an example of hammer.",
+        "Consider this borderline case: decorative hammer as an example of hammer.",
+        "The boundary case of sledgehammer illuminates the nature of hammer.",
+        "The problematic case of rubber hammer tests our concept of hammer.",
+        "Consider this borderline case: rubber hammer as an example of hammer.",
+        "The marginal instance broken hammer raises questions about hammer membership."
+      ],
+      "typicality_gradient": {
+        "typical": [
+          "When people think of hammer, they usually imagine construction hammer.",
+          "A perfect example of hammer is construction hammer.",
+          "A clear case of hammer is carpenter's hammer.",
+          "A central instance of hammer is claw hammer.",
+          "A central instance of hammer is construction hammer.",
+          "A clear case of hammer is claw hammer.",
+          "The prototypical hammer would be construction hammer.",
+          "The prototypical hammer would be construction hammer.",
+          "When people think of hammer, they usually imagine carpenter's hammer.",
+          "A perfect example of hammer is carpenter's hammer."
+        ],
+        "atypical": [
+          "An uncommon type of hammer is war hammer.",
+          "An atypical instance of hammer is rubber mallet.",
+          "A less typical hammer would be war hammer.",
+          "An atypical instance of hammer is rubber mallet.",
+          "An unusual example of hammer is tack hammer.",
+          "An unusual example of hammer is war hammer.",
+          "A peripheral case of hammer is tack hammer.",
+          "A peripheral case of hammer is war hammer.",
+          "An atypical instance of hammer is tack hammer.",
+          "A less typical hammer would be sledgehammer."
+        ]
+      },
+      "cross_domain_stability": {
+        "scientific": [
+          "Scientific papers describe hammer as having every household should have one.",
+          "Academic research on hammer focuses on intended function of pounding.",
+          "Scientific papers describe hammer as having designed for striking and driving.",
+          "Academic research on hammer focuses on purposeful artifact with clear function.",
+          "In the laboratory, researchers study hammer which has handle for leverage and control."
+        ],
+        "everyday": [
+          "At home, you might find hammer that is designed for striking and driving.",
+          "In daily life, people encounter hammer which is tool designed by humans.",
+          "Regular experience with hammer includes designed for striking and driving.",
+          "In ordinary situations, hammer shows can be dangerous if misused.",
+          "In daily life, people encounter hammer which is used in construction."
+        ],
+        "technical": [
+          "Technical specifications for hammer include tool for hitting nails.",
+          "Industrial applications of hammer involve can be dangerous if misused.",
+          "Technical specifications for hammer include purposeful artifact with clear function.",
+          "Industrial applications of hammer involve intended function of pounding.",
+          "Professional use of hammer requires understanding force multiplication device."
+        ],
+        "cultural": [
+          "In our culture, hammer is understood as designed for striking and driving.",
+          "Socially, hammer is recognised by used in construction.",
+          "Cultural traditions associate hammer with can be dangerous if misused.",
+          "Social contexts present hammer as used in construction.",
+          "In our culture, hammer is understood as symbol of building and making."
+        ]
+      },
+      "kind_type": "artifact",
+      "scientific_contexts": [
+        "Advanced measurement techniques show hammer has ergonomic design principles.",
+        "Empirical studies demonstrate that hammer involves material strength and durability.",
+        "Advanced measurement techniques show hammer has mechanical advantage through leverage.",
+        "Empirical studies demonstrate that hammer involves material strength and durability.",
+        "Empirical studies demonstrate that hammer involves mechanical advantage through leverage.",
+        "Laboratory analysis reveals hammer exhibits vibration dampening properties.",
+        "The scientific understanding of hammer includes vibration dampening properties.",
+        "Scientific research shows that hammer is characterized by material strength and durability.",
+        "Laboratory analysis reveals hammer exhibits kinetic energy transfer mechanisms.",
+        "Scientific research shows that hammer is characterized by impact force calculations."
+      ],
+      "folk_contexts": [
+        "The everyday understanding of hammer includes being requires skill to use effectively.",
+        "People generally know that hammer is used in construction.",
+        "The everyday understanding of hammer includes being tool for hitting nails.",
+        "Everyone understands hammer as every household should have one.",
+        "Regular people recognise hammer as every household should have one.",
+        "People generally know that hammer is tool for hitting nails.",
+        "Regular people recognise hammer as requires skill to use effectively.",
+        "Folk wisdom tells us hammer is symbol of building and making.",
+        "Everyone understands hammer as every household should have one.",
+        "The everyday understanding of hammer includes being every household should have one."
+      ]
+    }
+  },
+  "comparison_tests": {
+    "direct_comparisons": [
+      "Unlike game, water has an essential nature that is polar molecule with partial charges.",
+      "Essential properties like molecular formula H2O determine water membership, unlike game.",
+      "The essence of water involves hydrogen-oxygen covalent bonds, whereas chair exists by social agreement.",
+      "Natural kinds like water have two hydrogen atoms bonded to one oxygen atom, while conventional kinds like chair are human-defined.",
+      "Scientific discovery can revise our understanding of water as polar molecule with partial charges, but not game.",
+      "Science discovers that gold is chemical symbol Au, but game is stipulated by humans.",
+      "Science discovers that gold is electron configuration [Xe] 4f\u00b9\u2074 5d\u00b9\u2070 6s\u00b9, but chair is stipulated by humans.",
+      "The difference between water and game is that the former has two hydrogen atoms bonded to one oxygen atom.",
+      "While chair is defined by human purposes, water is naturally molecular formula H2O.",
+      "Essential properties like 79 protons in atomic nucleus determine gold membership, unlike game."
+    ],
+    "natural_vs_nominal_contrasts": [
+      {
+        "natural_concept": "water",
+        "nominal_concept": "chair",
+        "natural_essential": "polar molecule with partial charges",
+        "nominal_essential": "functional purpose of seating",
+        "natural_superficial": "tasteless and odorless",
+        "nominal_superficial": "matches other furniture",
+        "prediction": "water should be more stable to superficial changes than chair"
+      },
+      {
+        "natural_concept": "water",
+        "nominal_concept": "game",
+        "natural_essential": "polar molecule with partial charges",
+        "nominal_essential": "defined winning conditions or objectives",
+        "natural_superficial": "feels wet to touch",
+        "nominal_superficial": "has particular cultural associations",
+        "prediction": "water should be more stable to superficial changes than game"
+      },
+      {
+        "natural_concept": "gold",
+        "nominal_concept": "chair",
+        "natural_essential": "chemical symbol Au",
+        "nominal_essential": "elevated seating surface",
+        "natural_superficial": "associated with wealth and status",
+        "nominal_superficial": "has four legs",
+        "prediction": "gold should be more stable to superficial changes than chair"
+      },
+      {
+        "natural_concept": "gold",
+        "nominal_concept": "game",
+        "natural_essential": "chemical symbol Au",
+        "nominal_essential": "competitive or skill-based elements",
+        "natural_superficial": "feels heavy and dense",
+        "nominal_superficial": "involves multiple players",
+        "prediction": "gold should be more stable to superficial changes than game"
+      }
+    ]
+  },
+  "metadata": {
+    "philosophical_framework": "Kripke-Putnam natural kinds theory",
+    "test_predictions": {
+      "natural_kinds": "Should be more sensitive to essential than superficial properties",
+      "nominal_kinds": "Should be more sensitive to functional than accidental properties",
+      "stability": "Natural kinds should show more cross-domain stability",
+      "typicality": "All kinds should show prototype effects; natural kinds should also track essences"
+    },
+    "safety_implications": {
+      "if_natural_kind_tracking": "AI concepts align with scientific understanding \u2013 good for alignment",
+      "if_superficial_tracking": "AI concepts track appearances not reality \u2013 concerning for safety",
+      "if_nominal_appropriate": "AI tracks human purposes and functions appropriately"
+    }
+  }
+}
