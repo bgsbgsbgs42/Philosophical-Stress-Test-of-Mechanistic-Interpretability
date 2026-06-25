@@ -1,0 +1,109 @@
+
+COMPOSITIONALITY SYSTEMATICITY ANALYSIS REPORT
+Model: pythia-70m (Layer 0)
+================================================
+
+EXECUTIVE SUMMARY
+-----------------
+Total Concepts Tested: 28
+Mean Arithmetic Similarity: 0.000 ± 0.000
+Systematic Composition Rate: 0.0%
+Perfect Composition Rate: 0.0%
+
+PHILOSOPHICAL ASSESSMENT
+------------------------
+
+Theory Support: WEAK SUPPORT - likely statistical patterns only
+Safety Implication: LOW CONFIDENCE - interpretability may be misleading
+
+DETAILED RESULTS BY CATEGORY
+----------------------------
+
+COLOR_OBJECT:
+  Mean Score: 0.000 ± 0.000
+  Systematic Rate: 0.0% (0/4)
+  Examples: red+car→red car(0.00), blue+car→blue car(0.00), green+apple→green apple(0.00)
+
+SIZE_OBJECT:
+  Mean Score: 0.000 ± 0.000
+  Systematic Rate: 0.0% (0/4)
+  Examples: big+house→big house(0.00), small+house→small house(0.00), tall+building→tall building(0.00)
+
+SPEED_OBJECT:
+  Mean Score: 0.000 ± 0.000
+  Systematic Rate: 0.0% (0/2)
+  Examples: fast+train→fast train(0.00), slow+train→slow train(0.00)
+
+WEIGHT_OBJECT:
+  Mean Score: 0.000 ± 0.000
+  Systematic Rate: 0.0% (0/2)
+  Examples: heavy+box→heavy box(0.00), light+box→light box(0.00)
+
+ACTION_OBJECT:
+  Mean Score: 0.000 ± 0.000
+  Systematic Rate: 0.0% (0/4)
+  Examples: read+book→read book(0.00), write+letter→write letter(0.00), drive+car→drive car(0.00)
+
+QUALITY_ABSTRACT:
+  Mean Score: 0.000 ± 0.000
+  Systematic Rate: 0.0% (0/2)
+  Examples: good+idea→good idea(0.00), bad+decision→bad decision(0.00)
+
+TRUTH_ABSTRACT:
+  Mean Score: 0.000 ± 0.000
+  Systematic Rate: 0.0% (0/2)
+  Examples: true+statement→true statement(0.00), false+claim→false claim(0.00)
+
+IDIOM:
+  Mean Score: 0.000 ± 0.000
+  Systematic Rate: 0.0% (0/2)
+  Examples: red+herring→red herring(0.00), hot+dog→hot dog(0.00)
+
+COMPOUND:
+  Mean Score: 0.000 ± 0.000
+  Systematic Rate: 0.0% (0/2)
+  Examples: dead+beat→deadbeat(0.00), green+house→greenhouse(0.00)
+
+SPATIAL:
+  Mean Score: 0.000 ± 0.000
+  Systematic Rate: 0.0% (0/4)
+  Examples: above+table→above table(0.00), below+bridge→below bridge(0.00), inside+box→inside box(0.00)
+
+FAILURE MODE ANALYSIS
+---------------------
+Feature Suppression Cases: 0
+Emergent Properties Cases: 0
+Systematic Failures: 26
+Idiomatic Resistance: 2
+
+IMPLICATIONS FOR AI SAFETY
+---------------------------
+
+⚠️  CRITICAL FINDING: Low systematicity suggests current interpretability methods
+may not track genuine conceptual content. This has major implications:
+
+1. Alignment Verification: Cannot reliably verify AI "beliefs" via feature inspection
+2. Deception Detection: May miss sophisticated deceptive reasoning
+3. Value Learning: Uncertain whether extracted "values" represent genuine preferences
+
+RECOMMENDATIONS:
+- Develop more philosophically-grounded interpretability metrics
+- Focus on behavioral rather than representational alignment verification
+- Increase caution when using mechanistic interpretability for safety-critical applications
+
+
+METHODOLOGICAL NOTES
+--------------------
+- Results based on 28 concept triples
+- Similarity threshold for systematicity: 0.6
+- Layer analyzed: 0 (residual stream)
+- Context template: "The concept is {}"
+
+REPRODUCIBILITY
+---------------
+All code and data available for replication. Key parameters:
+- Model: pythia-70m
+- Layer: 0  
+- Device: cpu
+- Similarity metric: Cosine similarity
+- Composition method: Vector addition
